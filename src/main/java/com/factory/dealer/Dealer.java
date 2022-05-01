@@ -38,7 +38,6 @@ public class Dealer implements Task
             {
                 logger.getInfoMessage(saleMessage);
             }
-            //System.out.println(saleMessage);
             Thread.sleep(waitTime);
         }
         

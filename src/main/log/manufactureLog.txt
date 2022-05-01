@@ -1,60 +1,80 @@
-мая 02, 2022 2:58:57 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:49 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <2>: Auto: <BSN7766>(Body: <YAM7387>, Motor: <WAX9118>, Accessory: <VEK6849>)
+Deliver performed: Dealer <4>: Auto: <HRV2472>(Body: <PHR2070>, Motor: <BVM2892>, Accessory: <PFU4304>)
 
-мая 02, 2022 2:58:57 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:49 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <3>: Auto: <PSV2110>(Body: <HMF6191>, Motor: <KMJ2378>, Accessory: <EJW9787>)
+Deliver performed: Dealer <1>: Auto: <RCE2194>(Body: <XVE3637>, Motor: <LLS7306>, Accessory: <DRA5934>)
 
-мая 02, 2022 2:58:57 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:49 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <1>: Auto: <RHG0079>(Body: <CHF7720>, Motor: <WEG3671>, Accessory: <AJP2862>)
+Deliver performed: Dealer <3>: Auto: <VDN3659>(Body: <TPU1142>, Motor: <FAF4301>, Accessory: <TMP5266>)
 
-мая 02, 2022 2:58:57 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:49 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <4>: Auto: <DMX1078>(Body: <PXF1562>, Motor: <FTL6347>, Accessory: <PNW6401>)
+Deliver performed: Dealer <5>: Auto: <TZR1468>(Body: <YVF2418>, Motor: <GZJ4400>, Accessory: <HTN6385>)
 
-мая 02, 2022 2:58:57 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:49 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <5>: Auto: <PRF2040>(Body: <VKZ5788>, Motor: <WNJ3588>, Accessory: <HUK4364>)
+Deliver performed: Dealer <2>: Auto: <RAF3445>(Body: <HCB6835>, Motor: <SHG6002>, Accessory: <YFU5332>)
 
-мая 02, 2022 2:58:58 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:50 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <2>: Auto: <VTB9207>(Body: <PAS0576>, Motor: <EVG7940>, Accessory: <SPB4146>)
+Deliver performed: Dealer <4>: Auto: <RDB2999>(Body: <LZF5439>, Motor: <MPX6532>, Accessory: <RUW7245>)
 
-мая 02, 2022 2:58:58 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:50 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <3>: Auto: <WVD6136>(Body: <FEX6562>, Motor: <LXN4454>, Accessory: <RJJ4360>)
+Deliver performed: Dealer <5>: Auto: <KZE3811>(Body: <UAG2383>, Motor: <MRN5912>, Accessory: <TLL5386>)
 
-мая 02, 2022 2:58:58 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:50 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <1>: Auto: <SKV8206>(Body: <SCB9630>, Motor: <HHL0745>, Accessory: <BVK5119>)
+Deliver performed: Dealer <1>: Auto: <NSE5965>(Body: <XWM3429>, Motor: <GAP6016>, Accessory: <CYL7291>)
 
-мая 02, 2022 2:58:58 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:50 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <5>: Auto: <KRH8842>(Body: <ABD9967>, Motor: <ADP3253>, Accessory: <AZJ1909>)
+Deliver performed: Dealer <3>: Auto: <YFM9785>(Body: <RYN3290>, Motor: <ZJZ2894>, Accessory: <YUR1821>)
 
-мая 02, 2022 2:58:58 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:50 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <4>: Auto: <KCD0898>(Body: <LUT4081>, Motor: <NVA6493>, Accessory: <LDP8516>)
+Deliver performed: Dealer <2>: Auto: <NXB9184>(Body: <HAM4758>, Motor: <WXV8140>, Accessory: <UTL4115>)
 
-мая 02, 2022 2:58:59 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:51 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <2>: Auto: <GXZ4847>(Body: <ZUR9981>, Motor: <ZXR5708>, Accessory: <JHJ8625>)
+Deliver performed: Dealer <5>: Auto: <BVM4144>(Body: <TWJ3061>, Motor: <PMU0322>, Accessory: <ZFT5620>)
 
-мая 02, 2022 2:58:59 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:51 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <3>: Auto: <JGY3277>(Body: <ENZ0065>, Motor: <HUD1998>, Accessory: <GBJ5527>)
+Deliver performed: Dealer <1>: Auto: <WSB6787>(Body: <KGR3768>, Motor: <HSB9171>, Accessory: <NNS4695>)
 
-мая 02, 2022 2:58:59 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:51 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <1>: Auto: <TRL6049>(Body: <NDD3676>, Motor: <RAN9771>, Accessory: <DAX9955>)
+Deliver performed: Dealer <4>: Auto: <JHS3406>(Body: <MAD7251>, Motor: <TFB6061>, Accessory: <VCG9411>)
 
-мая 02, 2022 2:58:59 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:51 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <5>: Auto: <FVC9442>(Body: <PMP7997>, Motor: <WYP8305>, Accessory: <XPD0278>)
+Deliver performed: Dealer <3>: Auto: <LVC3821>(Body: <PGN1717>, Motor: <GNH3600>, Accessory: <DDN4828>)
 
-мая 02, 2022 2:58:59 AM com.logger.ManufactureLogger getInfoMessage
+мая 02, 2022 3:01:51 AM com.logger.ManufactureLogger getInfoMessage
 INFO: 
-Deliver performed: Dealer <4>: Auto: <YRH0140>(Body: <FSV3117>, Motor: <XVA7574>, Accessory: <VNN6105>)
+Deliver performed: Dealer <2>: Auto: <FYM4495>(Body: <SJF3707>, Motor: <BXF1143>, Accessory: <THY9512>)
+
+мая 02, 2022 3:01:52 AM com.logger.ManufactureLogger getInfoMessage
+INFO: 
+Deliver performed: Dealer <5>: Auto: <XFJ8067>(Body: <MEC9037>, Motor: <DZP6718>, Accessory: <KST3875>)
+
+мая 02, 2022 3:01:52 AM com.logger.ManufactureLogger getInfoMessage
+INFO: 
+Deliver performed: Dealer <1>: Auto: <RAY6774>(Body: <GLD8612>, Motor: <REN4622>, Accessory: <RTL0803>)
+
+мая 02, 2022 3:01:52 AM com.logger.ManufactureLogger getInfoMessage
+INFO: 
+Deliver performed: Dealer <4>: Auto: <WNS1554>(Body: <YLJ8664>, Motor: <HVZ9754>, Accessory: <RXU0031>)
+
+мая 02, 2022 3:01:52 AM com.logger.ManufactureLogger getInfoMessage
+INFO: 
+Deliver performed: Dealer <3>: Auto: <BYJ0040>(Body: <NSY5057>, Motor: <RVX5795>, Accessory: <TYD2686>)
+
+мая 02, 2022 3:01:52 AM com.logger.ManufactureLogger getInfoMessage
+INFO: 
+Deliver performed: Dealer <2>: Auto: <FPU3972>(Body: <TSR6456>, Motor: <YJK7957>, Accessory: <NTA8259>)
 
