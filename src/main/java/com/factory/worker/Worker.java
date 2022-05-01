@@ -30,12 +30,6 @@ public class Worker implements Task
         this.assembledCars = assembledCars;
     }
 
-    // @Override
-    // public String getName() 
-    // {
-    //     return name;
-    // }
-
     @Override
     public void performWork() throws InterruptedException 
     {
